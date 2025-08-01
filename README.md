@@ -35,7 +35,8 @@
 </ul>
 
 
-<img width="1353" height="596" alt="project2" src="https://github.com/user-attachments/assets/1246c14d-0ca6-4846-86ad-809ccea466ad" />
+<img width="1353" height="596" alt="repo2" src="https://github.com/user-attachments/assets/3c7e3e95-bded-402a-a137-151f21606143" />
 
-<h2>Try It Here</h2>
+
+<h2>View It Here</h2>
 <a href="https://burger-order-website.netlify.app/">Burger-Website</a>
