@@ -1,4 +1,4 @@
-<h2>Responsive Burger Website</h2>
+<h2>Bun.io</h2>
 
 <ul>
 <li>Responsive design across all screen sizes</li> 
